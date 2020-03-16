@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: auto;
+
+}
+
+.leftbox {
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin: 3% 5% 0 5%;
+}
+
+.rightbox {
+    float: left;
+    width: 50%;
+    height: 315px;
+    margin: 3% 5% 0 5%;
+}
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+.saveButton {
+    width: 160px;
+    font-weight: bold;
+}
+
+#applyButton {
+    margin: 1em 4.9em 1em 0;
+}
+
+#actionSelect {
+    margin-right: 2.3em;
+}
+
+.alert {
+    justify-content: center;
+    border-radius: 0;
+    text-align: center;
+    font-weight: bold;
+}

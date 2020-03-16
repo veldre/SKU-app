@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71ecb7fd-814f-4b8b-9ee2-ed3390fff172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YwSCXp2gmuXzqnUNSbcFRgOWJi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pieteikuma_forma_LTV/contact_form_OOP" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views/product" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71ecb7fd-814f-4b8b-9ee2-ed3390fff172" name="Default Changelist" comment="" />
+      <created>1583852036899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583852036899</updated>
+      <workItem from="1583852038520" duration="1785000" />
+      <workItem from="1583854194826" duration="6609000" />
+      <workItem from="1583999137412" duration="943000" />
+      <workItem from="1584001994326" duration="12889000" />
+      <workItem from="1584025840559" duration="3736000" />
+      <workItem from="1584084218194" duration="27373000" />
+      <workItem from="1584128725394" duration="3793000" />
+      <workItem from="1584133089819" duration="4949000" />
+      <workItem from="1584171956535" duration="10085000" />
+      <workItem from="1584208429216" duration="1450000" />
+      <workItem from="1584255682754" duration="1175000" />
+      <workItem from="1584258874019" duration="8404000" />
+      <workItem from="1584271068232" duration="20185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584119055637">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="555" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.986@0.27.1920.986" timestamp="1584119055637" />
+    <state x="768" y="238" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1584019900432">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="768" y="238" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.986@0.27.1920.986" timestamp="1584019900432" />
+    <state x="356" y="27" width="1188" height="986" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584116148963">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="356" y="27" width="1188" height="986" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.986@0.27.1920.986" timestamp="1584116148963" />
+    <state x="693" y="277" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584115865625">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="693" y="277" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1920.986@0.27.1920.986" timestamp="1584115865625" />
+    <state x="688" y="261" key="FileChooserDialogImpl" timestamp="1584286434273">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="688" y="261" key="FileChooserDialogImpl/0.27.1920.986@0.27.1920.986" timestamp="1584286434273" />
+    <state x="712" y="439" width="486" height="159" key="NewPhpFileDialog" timestamp="1584287717601">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="712" y="439" width="486" height="159" key="NewPhpFileDialog/0.27.1920.986@0.27.1920.986" timestamp="1584287717601" />
+    <state x="426" y="154" key="SettingsEditor" timestamp="1583852125888">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="426" y="154" key="SettingsEditor/0.27.1920.986@0.27.1920.986" timestamp="1583852125888" />
+    <state x="100" y="127" width="1720" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584268797030">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="100" y="127" width="1720" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.986@0.27.1920.986" timestamp="1584268797030" />
+    <state x="704" y="143" width="501" height="751" key="refactoring.ChangeSignatureDialog" timestamp="1584091687105">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="704" y="143" width="501" height="751" key="refactoring.ChangeSignatureDialog/0.27.1920.986@0.27.1920.986" timestamp="1584091687105" />
+    <state x="624" y="236" key="run.anything.popup" timestamp="1584121786866">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="624" y="236" key="run.anything.popup/0.27.1920.986@0.27.1920.986" timestamp="1584121786866" />
+  </component>
+</project>
